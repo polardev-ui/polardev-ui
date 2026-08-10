@@ -7,7 +7,7 @@ My name is Josh, and I'm a Software Engineer with 10 years of experience up my s
 **Disband** - 2023 - Present | Founder, CEO <br>
 
 ## About me
-**15 years old**
+**15 years old** <br>
 **C#, HTML, Python, React, Lua, TypeScript, C++** <br>
 **Admitted into MENSA at 9 years old (136 IQ)** <br>
 **Neurodivergent (ADHD, Bipolar, OCD)** <br>
